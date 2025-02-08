@@ -7,8 +7,8 @@
 </a>
 
 ### 🔍 About Me
-- 🎓 I’m currently a student passionate about **web development**.
-- 🚀 Currently learning the **MERN Stack** *(MongoDB, Express.js, React.js, Node.js)*.
+- 🎓 I’m currently a **Computer Science student** at **Virtual University**, passionate about **web development**.
+- 🚀 Currently learning the **PWA** *(Progressive Web Applications)*.
 - 🌟 Love building **innovative and impactful web applications**.
 - 📈 Always eager to **improve** and contribute to **open-source projects**.
 - 😊 **Fun Fact:** I enjoy exploring new technologies and solving real-world problems through code.
@@ -28,7 +28,7 @@
 
 ### 🎓 Skills & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,js,nodejs,express,mongodb,react,php,mysql" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,php" alt="Tech Stack"/>
 </div>
 
 ---
