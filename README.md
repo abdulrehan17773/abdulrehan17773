@@ -1,10 +1,9 @@
 ## 👋 Hi, I’m Abdul Rehan
 
 
----
 
 <a href="https://github.com/abdulrehan17773">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=200&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=200&center=true&vCenter=true&width=435&lines=MERN-Stack+Developer;Problem+Solver" alt="Typing SVG"/>
 </a>
 
 ### 🔍 About Me
