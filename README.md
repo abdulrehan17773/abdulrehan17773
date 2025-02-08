@@ -1,10 +1,5 @@
 ## 👋 Hi, I’m Abdul Rehan
 
-<div align="center" width="50">
-  <a href="https://github.com/abdulrehan17773">
-    <img src="https://github.com/abdulrehan17773/abdulrehan17773/blob/main/image/github-header-image.png" alt="GitHub Header"/>
-  </a>
-</div>
 
 ---
 
@@ -34,7 +29,7 @@
 
 ### 🎓 Skills & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,bootstrap,git,github,vscode,linux" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,bootstrap,git,github,vscode" alt="Tech Stack"/>
 </div>
 
 ---
