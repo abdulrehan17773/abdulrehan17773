@@ -28,7 +28,7 @@
 
 ### 🎓 Skills & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,bootstrap,git,github,vscode" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,bootstrap,tailwind" alt="Tech Stack"/>
 </div>
 
 ---
