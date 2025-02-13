@@ -17,8 +17,6 @@
 
 ### 📊 GitHub Stats & Streaks
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehan17773&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehan17773&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </div>
 
