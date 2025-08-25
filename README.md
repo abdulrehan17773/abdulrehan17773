@@ -8,7 +8,7 @@
 
 ### 🔍 About Me
 - 🎓 I’m currently a **Computer Science student** at **Virtual University**, passionate about **web development**.
-- 🚀 Currently learning the MERN Stack (MongoDB, Express, React, Node.js).
+- 🚀 Currently learning the Progressive web app (PWA).
 - 🌟 Love building **innovative and impactful web applications**.
 - 📈 Always eager to **improve** and contribute to **open-source projects**.
 - 😊 **Fun Fact:** I enjoy exploring new technologies and solving real-world problems through code.
